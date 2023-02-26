@@ -19,9 +19,9 @@ public:
         c = c1;
     }
     void show() {
-        cout << "1 сторона: " << a << endl;
-        cout << "2 сторона: " << b << endl;
-        cout << "3 сторона: " << c << endl;
+        cout << "1 side: " << a << endl;
+        cout << "2 side: " << b << endl;
+        cout << "3 side: " << c << endl;
     }
     double perimetr() {
         double p = a + b + c;
