@@ -1,0 +1,10 @@
+﻿  circle.cpp
+C:\Users\fmann\source\repos\main2\main2\circle.h(12): warning C4305: инициализация: усечение из "double" в "const float"
+C:\Users\fmann\source\repos\main2\main2\circle.cpp(6,1): error C2011: circle: переопределение типа "class"
+C:\Users\fmann\source\repos\main2\main2\circle.h(5,7): message : см. объявление "circle"
+  main2.cpp
+C:\Users\fmann\source\repos\main2\main2\circle.h(12): warning C4305: инициализация: усечение из "double" в "const float"
+C:\Users\fmann\source\repos\main2\main2\main2.cpp(38,12): warning C4101: x_cntr: неиспользованная локальная переменная
+C:\Users\fmann\source\repos\main2\main2\main2.cpp(38,20): warning C4101: y_cntr: неиспользованная локальная переменная
+C:\Users\fmann\source\repos\main2\main2\main2.cpp(38,9): warning C4101: r: неиспользованная локальная переменная
+  Создание кода...
